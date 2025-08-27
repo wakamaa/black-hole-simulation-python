@@ -28,10 +28,9 @@ numpy==1.26.4
 
 Running the Simulation
 
-    Clone this repository to your local machine:
-    Bash
-
-git clone [https://github.com/wakamaa/black-hole-simulation.git](https://github.com/wakamaa/black-hole-simulation.git)
+Clone this repository to your local machine:
+Bash
+    git clone [https://github.com/wakamaa/black-hole-simulation.git](https://github.com/wakamaa/black-hole-simulation.git)
 
 Navigate to the project directory:
 Bash
