@@ -4,7 +4,7 @@
 A numerical simulation of light rays bending around a non-rotating black hole (a Schwarzschild black hole). This project was developed as a fun python project, using `matplotlib` for real-time visualization and is inspired by other projects prior.
 
 <div align="center">
-  <img src="path/to/your/simulation-gif.gif" alt="Animated GIF of the simulation" width="600" />
+  <img src="light_vs_blackhole.gif" alt="Animated GIF of the simulation" width="600" />
 </div>
 
 ## Key Features
@@ -14,7 +14,7 @@ A numerical simulation of light rays bending around a non-rotating black hole (a
 - **Physics-based:** The simulation is grounded in the principles of General Relativity, modeling the effects of a massive body on light.
 
 <div align="center">
-  <img src="path/to/your/simulation-still.png" alt="A still image of the simulation" width="600" />
+  <img src="figure_7.png" alt="A still image of the simulation" width="600" />
 </div>
 
 ## Getting Started
@@ -30,6 +30,7 @@ Running the Simulation
 
 Clone this repository to your local machine:
 Bash
+
     git clone [https://github.com/wakamaa/black-hole-simulation.git](https://github.com/wakamaa/black-hole-simulation.git)
 
 Navigate to the project directory:
